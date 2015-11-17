@@ -12,5 +12,13 @@ li {
 }
 
 .logo {
-	vertical-align: center;
+	height: 223px;
+	margin-top: 89px;
+	margin-left:480px;
+}
+
+.logo img {
+	width: 272px;
+	padding-top: 192px;
+
 }
